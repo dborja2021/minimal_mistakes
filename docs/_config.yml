@@ -13,16 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: TFG 2024 Daniel Borja (Weblog)
+title: Robotics Lab URJC. TFG 2024 Daniel Borja (Weblog)
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+Memoria por semanas del desarrollo de mi trabajo de fin de grado
 #twitter_username: username
 github_username: dborja2021
 minimal_mistakes_skin: dark
 search: true
+logo: ./logo.png
 
 # Build settings
 markdown: kramdown
