@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 #twitter_username: username
 github_username: dborja2021
-minimal_mistakes_skin: dirt
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
@@ -65,9 +65,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dborja2021"
-    - label: "Linkedin"
-      icon: "/images/linkedin.png"
-      url: "https://www.linkedin.com/in/daniel-borja-fern%C3%A1ndez-810b77163/"
+#    - label: "Linkedin"
+ #     icon: "/images/linkedin.png"
+#      url: "https://www.linkedin.com/in/daniel-borja-fern%C3%A1ndez-810b77163/"
     #- label: "Twitter"
     #  icon: "fab fa-fw fa-twitter-square"
     #  url: "https://twitter.com/"
