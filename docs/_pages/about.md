@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Me"
 ---
 
 Hola, soy Daniel, actualmente estoy cursando el ultmo curso del grado en Ingeniería en Sistemas Audiovisuales y multimedia en la Universidad Rey Juan Carlos.
