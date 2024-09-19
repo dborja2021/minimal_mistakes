@@ -3,6 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hola, soy Daniel, actualmente estoy cursando el ultmo curso del grado en Ingeniería en Sistemas Audiovisuales y multimedia en la Universidad Rey Juan Carlos.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Mi gusto y mi experiencia previa en el sector audiovisual me llevo a querer ampliar mis conocimiento en este campo. Tras quedarme sin empleo en la pandemia decidí lanzarme a este nuevo proyecto donde he abierto aun mas mi admiracion por el mundo audivisual y he conocido otro enorme horizonte.
+
+Ahora me encuento en busqueda de nuevas oportunidades para aplicar las habilidades adquridas en estos años y seguir creciendo en mi carrera profesiona.
